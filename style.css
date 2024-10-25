@@ -11,7 +11,8 @@ body {
   border-radius: 10px; /* Rounds the corners of the container */
   padding: 20px; /* Adds padding inside the container */
   margin-top: 50px; /* Adds margin at the top */
-  width: 700px;
+  width: 100%;
+  max-width: 700px;
 }
 
 h1 {
